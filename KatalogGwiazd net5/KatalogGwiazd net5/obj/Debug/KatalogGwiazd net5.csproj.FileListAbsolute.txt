@@ -1,0 +1,213 @@
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\KatalogGwiazd net5.exe.config
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\MainWindow.g.cs
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\Modyfikuj_Wpis.g.cs
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\Nowy_Wpis.g.cs
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\App.g.cs
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\KatalogGwiazd net5_MarkupCompile.cache
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\KatalogGwiazd net5_MarkupCompile.lref
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\KatalogGwiazd net5.exe
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\KatalogGwiazd net5.pdb
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\MainWindow.baml
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\Modyfikuj_Wpis.baml
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\Nowy_Wpis.baml
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\KatalogGwiazd net5.g.resources
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\KatalogGwiazd_net5.Properties.Resources.resources
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\KatalogGwiazd net5.csproj.GenerateResource.Cache
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\KatalogGwiazd net5.exe
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\KatalogGwiazd net5.pdb
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\KatalogGwiazd net5.exe.config
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\KatalogGwiazd net5.exe
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\KatalogGwiazd net5.pdb
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\KatalogGwiazd net5.csproj.AssemblyReference.cache
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\KatalogGwiazd net5.csproj.SuggestedBindingRedirects.cache
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\MainWindow.g.cs
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\Modyfikuj_Wpis.g.cs
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\Nowy_Wpis.g.cs
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\App.g.cs
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\KatalogGwiazd net5_MarkupCompile.cache
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\KatalogGwiazd net5_MarkupCompile.lref
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\MainWindow.baml
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\Modyfikuj_Wpis.baml
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\Nowy_Wpis.baml
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\KatalogGwiazd net5.g.resources
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\KatalogGwiazd_net5.Properties.Resources.resources
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\KatalogGwiazd net5.csproj.GenerateResource.cache
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\KatalogGwiazd net5.csproj.CoreCompileInputs.cache
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\KatalogGwiazd net5.exe
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\KatalogGwiazd net5.pdb
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\KatalogGwiazd net5.csproj.AssemblyReference.cache
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\KatalogGwiazd net5.csproj.CoreCompileInputs.cache
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\Microsoft.Win32.Primitives.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\netstandard.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.AppContext.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Collections.Concurrent.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Collections.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Collections.NonGeneric.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Collections.Specialized.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.ComponentModel.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.ComponentModel.Primitives.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.ComponentModel.TypeConverter.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Console.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Data.Common.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Diagnostics.Contracts.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Diagnostics.Debug.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Diagnostics.Process.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Diagnostics.StackTrace.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Diagnostics.Tools.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Diagnostics.TraceSource.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Diagnostics.Tracing.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Drawing.Primitives.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Dynamic.Runtime.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Globalization.Calendars.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Globalization.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Globalization.Extensions.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.IO.Compression.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.IO.Compression.ZipFile.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.IO.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.IO.FileSystem.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.IO.FileSystem.Primitives.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.IO.FileSystem.Watcher.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.IO.IsolatedStorage.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.IO.MemoryMappedFiles.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.IO.Pipes.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Linq.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Linq.Expressions.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Linq.Parallel.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Linq.Queryable.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Net.Http.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Net.NameResolution.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Net.NetworkInformation.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Net.Ping.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Net.Primitives.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Net.Requests.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Net.Security.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Net.Sockets.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Net.WebHeaderCollection.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Net.WebSockets.Client.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Net.WebSockets.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.ObjectModel.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Reflection.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Reflection.Extensions.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Reflection.Primitives.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Resources.Reader.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Resources.ResourceManager.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Resources.Writer.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Runtime.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Runtime.Extensions.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Runtime.Handles.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Runtime.InteropServices.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Runtime.Numerics.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Runtime.Serialization.Formatters.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Runtime.Serialization.Json.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Runtime.Serialization.Primitives.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Runtime.Serialization.Xml.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Security.Claims.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Security.Cryptography.Algorithms.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Security.Cryptography.Csp.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Security.Cryptography.Encoding.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Security.Cryptography.Primitives.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Security.Principal.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Security.SecureString.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Text.Encoding.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Text.Encoding.Extensions.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Text.RegularExpressions.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Threading.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Threading.Overlapped.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Threading.Tasks.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Threading.Tasks.Parallel.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Threading.Thread.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Threading.ThreadPool.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Threading.Timer.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.ValueTuple.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Xml.ReaderWriter.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Xml.XDocument.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Xml.XmlDocument.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Xml.XmlSerializer.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Xml.XPath.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Xml.XPath.XDocument.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\Microsoft.Data.Sqlite.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\SQLitePCLRaw.core.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Buffers.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Memory.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Numerics.Vectors.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\Microsoft.Data.Sqlite.xml
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Buffers.xml
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Memory.xml
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Numerics.Vectors.xml
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\KatalogGwiazd net5.exe.config
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\KatalogGwiazd net5_Content.g.cs
+F:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\KatalogGwiazd net5.csproj.CopyComplete
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\Microsoft.Data.Sqlite.dll
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\SQLitePCLRaw.core.dll
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Buffers.dll
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Memory.dll
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Numerics.Vectors.dll
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\Microsoft.Data.Sqlite.xml
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Buffers.xml
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Memory.xml
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Numerics.Vectors.xml
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\KatalogGwiazd net5_Content.g.cs
+G:\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\KatalogGwiazd net5.csproj.CopyComplete
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\KatalogGwiazd net5.exe.config
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\KatalogGwiazd net5.exe
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\KatalogGwiazd net5.pdb
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\Microsoft.Data.Sqlite.dll
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\SQLitePCLRaw.core.dll
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Buffers.dll
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Memory.dll
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Numerics.Vectors.dll
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\Microsoft.Data.Sqlite.xml
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Buffers.xml
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Memory.xml
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Numerics.Vectors.xml
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\KatalogGwiazd net5.csproj.AssemblyReference.cache
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\KatalogGwiazd net5.csproj.SuggestedBindingRedirects.cache
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\MainWindow.g.cs
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\Modyfikuj_Wpis.g.cs
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\Nowy_Wpis.g.cs
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\App.g.cs
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\KatalogGwiazd net5_Content.g.cs
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\KatalogGwiazd net5_MarkupCompile.cache
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\KatalogGwiazd net5_MarkupCompile.lref
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\MainWindow.baml
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\Modyfikuj_Wpis.baml
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\Nowy_Wpis.baml
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\KatalogGwiazd net5.g.resources
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\KatalogGwiazd_net5.Properties.Resources.resources
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\KatalogGwiazd net5.csproj.GenerateResource.cache
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\KatalogGwiazd net5.csproj.CoreCompileInputs.cache
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\KatalogGwiazd net5.csproj.CopyComplete
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\KatalogGwiazd net5.exe
+E:\Studia\semestr 4\pendrive\Programowanie 2\wersja net 5\KatalogGwiazd net5\KatalogGwiazd net5\obj\Debug\KatalogGwiazd net5.pdb
